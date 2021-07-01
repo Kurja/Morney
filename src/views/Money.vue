@@ -20,7 +20,7 @@ export default {
     height: 100vh;
   }
   .content{
-    border: 1px solid blue;
+    //border: 1px solid blue;
     overflow: auto;
     flex-grow: 1;
   }
